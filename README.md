@@ -151,22 +151,6 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-snake-dark.svg" />
-</picture>
-
-> 💡 *Set up the [snk GitHub Action](https://github.com/Platane/snk) in your profile repo to generate the snake animation!*
-
-</div>
-
----
-
-<div align="center">
-
 ### 🤝 Let's Connect & Collaborate!
 
 <a href="https://www.linkedin.com/in/prathmeshraut02/" target="_blank">
