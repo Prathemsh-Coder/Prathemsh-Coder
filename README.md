@@ -1,179 +1,188 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffecf5,100:e8d5f5&height=200&section=header&text=✿%20Prathmesh%20S.%20Raut%20✿&fontSize=38&fontColor=c77dbd&animation=twinkling&fontAlignY=45&desc=crafting%20cozy%20code%20%26%20beautiful%20backends&descAlignY=65&descColor=b08bbf&descSize=16" width="100%"/>
-</div>
 
-<!-- TYPING -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=20&pause=1200&color=C77DBD&center=true&vCenter=true&width=650&lines=Hey!+I'm+Prathmesh+S.+Raut+%F0%9F%91%8B+%F0%9F%8C%B8;Full+Stack+Dev+%7C+Java+%26+Spring+Boot+%E2%98%95;I+build+things+that+spark+joy+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let%27s+build+something+lovely+together+%F0%9F%92%9C" alt="Typing SVG" />
-  </a>
-</div>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prathmesh%20S.%20Raut&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20React%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=C471ED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Prathmesh;%F0%9F%8E%93+B.E.+IT+%40+IIIT+Pune;%F0%9F%92%BB+Crafting+code+with+%E2%98%95+and+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px"/>
-</div>
-
-<!-- SOFT DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<!-- SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-prathmeshraut.in-C471ED?style=for-the-badge&logoColor=white)](https://www.prathmeshraut.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prathmeshraut02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmeshraut02/)
+[![GitHub](https://img.shields.io/badge/GitHub-Prathemsh--Coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prathemsh-Coder)
 
 <br/>
 
-<!-- ABOUT ME -->
-## 🌷 about me
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Prathemsh-Coder&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px"/>
+</div>
 
-```
-✿  name      →  Prathmesh S. Raut
-✿  role      →  Java & Spring Boot Engineer
-✿  hobbies   →  coding, coffee, lo-fi music
-✿  mood      →  cozy & in the zone ☕
-✿  focus     →  clean code & scalable systems
-✿  mantra    →  "make it work, make it pretty"
-✿  status    →  open to collabs 💌
-```
+---
+
+<img align="right" src="https://github.com/Prathemsh-Coder/Prathemsh-Coder/blob/main/assets/coding.gif?raw=true" width="300" alt="Coding GIF"/>
+
+### 🧑‍💻 &nbsp;About Me
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+🎓 &nbsp;Pursuing **B.E. in Information Technology** at **IIIT Pune**\
+☕ &nbsp;Passionate about building **scalable backend systems** with Java & Spring Boot\
+⚛️ &nbsp;Love crafting **beautiful frontends** with React & TailwindCSS\
+🚀 &nbsp;Exploring the realms of **DevOps** & **Cloud Computing**\
+🌱 &nbsp;Always learning, always growing\
+📫 &nbsp;Reach me at **[prathmeshraut.in](https://www.prathmeshraut.in/)**
 
 <br clear="right"/>
 
-<!-- SOFT DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
-
-<br/>
-
-<!-- TECH STACK -->
-## 🍬 my tech stack
+---
 
 <div align="center">
 
-### ☕ backend sweetness
-![Java](https://img.shields.io/badge/Java-ffb3c6?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-c9f0d4?style=for-the-badge&logo=spring&logoColor=5a9e6f)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-c9f0d4?style=for-the-badge&logo=springsecurity&logoColor=5a9e6f)
-![Hibernate](https://img.shields.io/badge/Hibernate-d4c5f9?style=for-the-badge&logo=hibernate&logoColor=7a5fa3)
-![Maven](https://img.shields.io/badge/Maven-ffd6a5?style=for-the-badge&logo=apachemaven&logoColor=c07a2a)
-
-### 🎀 frontend fluff
-![React](https://img.shields.io/badge/React-b5e8f7?style=for-the-badge&logo=react&logoColor=3b8fa3)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff4c2?style=for-the-badge&logo=javascript&logoColor=b89a00)
-![HTML5](https://img.shields.io/badge/HTML5-ffd6c2?style=for-the-badge&logo=html5&logoColor=c05a2a)
-![CSS3](https://img.shields.io/badge/CSS3-c2d8ff?style=for-the-badge&logo=css3&logoColor=2a5ac0)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-b5f0ef?style=for-the-badge&logo=tailwindcss&logoColor=2a8a89)
-
-### 🫧 databases & cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c2d8ff?style=for-the-badge&logo=postgresql&logoColor=2a5ac0)
-![MySQL](https://img.shields.io/badge/MySQL-ffd6c2?style=for-the-badge&logo=mysql&logoColor=c05a2a)
-![MongoDB](https://img.shields.io/badge/MongoDB-c9f0d4?style=for-the-badge&logo=mongodb&logoColor=5a9e6f)
-![Redis](https://img.shields.io/badge/Redis-ffb3c6?style=for-the-badge&logo=redis&logoColor=b03060)
-
-### 🌿 devops & tools
-![Docker](https://img.shields.io/badge/Docker-b5e8f7?style=for-the-badge&logo=docker&logoColor=2a6e8f)
-![Git](https://img.shields.io/badge/Git-ffd6c2?style=for-the-badge&logo=git&logoColor=c05a2a)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-d4c5f9?style=for-the-badge&logo=githubactions&logoColor=7a5fa3)
-![Linux](https://img.shields.io/badge/Linux-fff4c2?style=for-the-badge&logo=linux&logoColor=b89a00)
-![Postman](https://img.shields.io/badge/Postman-ffd6c2?style=for-the-badge&logo=postman&logoColor=c05a2a)
+## 🍬 My Sweet Tech Stack
 
 </div>
 
-<br/>
-
-<!-- SOFT DIVIDER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
 
-<br/>
+### ☕ Backend Sweetness
 
-<!-- STATS -->
-## 🌸 my garden of stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathemsh-Coder&show_icons=true&theme=swift&hide_border=true&bg_color=fff0f6&title_color=c77dbd&icon_color=ffb3c6&text_color=9b6fa3&border_radius=20" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathemsh-Coder&theme=swift&hide_border=true&background=fff0f6&ring=ffb3c6&fire=c77dbd&currStreakLabel=c77dbd&border_radius=20" width="49%"/>
-</div>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Backend Skills"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathemsh-Coder&layout=compact&theme=swift&hide_border=true&bg_color=fff0f6&title_color=c77dbd&text_color=9b6fa3&border_radius=20&langs_count=8" width="50%"/>
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+
+---
+
+### 🎀 Frontend Fluff
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="Frontend Skills"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathemsh-Coder&bg_color=fff0f6&color=c77dbd&line=ffb3c6&point=c77dbd&area=true&area_color=ffd6e7&hide_border=true" width="100%"/>
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🫧 Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Database Skills"/>
 
 <br/>
 
-<!-- TROPHIES -->
-## 🏅 little trophies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prathemsh-Coder&theme=rose_pine&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
+---
 
-<br/>
+### 🌿 DevOps & Tools
 
-<!-- SOFT DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,postman&theme=dark" alt="DevOps Skills"/>
 
 <br/>
 
-<!-- QUOTE -->
-## 🕯️ today's vibe
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs" width="80%"/>
-</div>
-
-<br/>
-
-<!-- SOFT DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-## 💌 say hello!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c2d8ff?style=for-the-badge&logo=linkedin&logoColor=2a5ac0)](https://linkedin.com/in/prathmeshraut02)
-[![Twitter](https://img.shields.io/badge/Twitter-b5e8f7?style=for-the-badge&logo=twitter&logoColor=2a6e8f)](https://twitter.com/prathmeshraut)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffd6e7?style=for-the-badge&logo=firefox&logoColor=c77dbd)](https://www.prathmeshraut.in/)
-[![Gmail](https://img.shields.io/badge/Gmail-ffb3c6?style=for-the-badge&logo=gmail&logoColor=b03060)](mailto:prathmesh@prathmeshraut.in)
-[![Dev.to](https://img.shields.io/badge/dev.to-d4c5f9?style=for-the-badge&logo=devdotto&logoColor=7a5fa3)](https://dev.to/prathmeshraut)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
 <br/>
 
-<!-- SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<!-- GITHUB STATS CARD -->
+<a href="https://github.com/Prathemsh-Coder">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prathemsh-Coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&icon_color=6e40c9&text_color=c9d1d9&ring_color=c471ed" alt="GitHub Stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Prathemsh-Coder">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathemsh-Coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<a href="https://github.com/Prathemsh-Coder">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prathemsh-Coder&theme=midnight-purple&hide_border=true&background=0D1117&ring=C471ED&fire=C471ED&currStreakLabel=C471ED&sideLabels=C9D1D9&dates=6E40C9" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<a href="https://github.com/Prathemsh-Coder">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathemsh-Coder&theme=react-dark&hide_border=true&bg_color=0d1117&color=c471ed&line=6e40c9&point=c471ed&area=true&area_color=6e40c9" width="95%" alt="Activity Graph"/>
+</a>
+
 </div>
 
-<br/>
+---
 
-<!-- VISITOR BADGE -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prathemsh-Coder&label=cozy+visitors&color=ffb3c6&style=for-the-badge" />
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prathemsh-Coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
 </div>
 
-<br/>
+---
 
-<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8d5f5,50:ffecf5,100:ffd6e7&height=120&section=footer&fontSize=14&fontColor=c77dbd&text=thanks%20for%20stopping%20by%20✿&fontAlignY=65" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-snake-dark.svg" />
+</picture>
+
+> 💡 *Set up the [snk GitHub Action](https://github.com/Platane/snk) in your profile repo to generate the snake animation!*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+<a href="https://www.linkedin.com/in/prathmeshraut02/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.prathmeshraut.in/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-C471ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://github.com/Prathemsh-Coder" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 </div>
