@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prathmesh%20S.%20Raut&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20React%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prathmesh%20S.%20Raut&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" src="https://github.com/Prathemsh-Coder/Prathemsh-Coder/blob/main/assets/coding.gif?raw=true" width="300" alt="Coding GIF"/>
+<img align="right" src="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/main/assets/coding.gif" width="300" alt="Coding GIF"/>
 
 ### 🧑‍💻 &nbsp;About Me
 
@@ -113,27 +113,19 @@
 <br/>
 
 <!-- GITHUB STATS CARD -->
-<a href="https://github.com/Prathemsh-Coder">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Prathemsh-Coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&icon_color=6e40c9&text_color=c9d1d9&ring_color=c471ed" alt="GitHub Stats"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathemsh-Coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&icon_color=6e40c9&text_color=c9d1d9&ring_color=c471ed)
 &nbsp;&nbsp;
-<a href="https://github.com/Prathemsh-Coder">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathemsh-Coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathemsh-Coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&text_color=c9d1d9&langs_count=8)
 
 <br/><br/>
 
 <!-- STREAK STATS -->
-<a href="https://github.com/Prathemsh-Coder">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prathemsh-Coder&theme=midnight-purple&hide_border=true&background=0D1117&ring=C471ED&fire=C471ED&currStreakLabel=C471ED&sideLabels=C9D1D9&dates=6E40C9" alt="GitHub Streak"/>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prathemsh-Coder&theme=midnight-purple&hide_border=true&background=0D1117&ring=C471ED&fire=C471ED&currStreakLabel=C471ED&sideLabels=C9D1D9&dates=6E40C9)
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/Prathemsh-Coder">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathemsh-Coder&theme=react-dark&hide_border=true&bg_color=0d1117&color=c471ed&line=6e40c9&point=c471ed&area=true&area_color=6e40c9" width="95%" alt="Activity Graph"/>
-</a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathemsh-Coder&theme=react-dark&hide_border=true&bg_color=0d1117&color=c471ed&line=6e40c9&point=c471ed&area=true&area_color=6e40c9)
 
 </div>
 
@@ -143,7 +135,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prathemsh-Coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathemsh-Coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
