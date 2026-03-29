@@ -17,7 +17,6 @@
 
 <br/>
 
-<!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=Prathemsh-Coder&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -38,6 +37,28 @@
 📫 &nbsp;Reach me at **[prathmeshraut.in](https://www.prathmeshraut.in/)**
 
 <br clear="right"/>
+
+---
+
+<!-- TERMINAL STYLE SECTION -->
+<div align="center">
+
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║          prathmesh@iiit-pune:~$ whoami --verbose             ║
+╠══════════════════════════════════════════════════════════════╣
+║  🖥️  Role      →  Java Full Stack Developer                  ║
+║  🎓  College   →  IIIT Pune (B.E. IT)                        ║
+║  ⚙️  Backend   →  Java • Spring Boot • Hibernate             ║
+║  🎨  Frontend  →  React • TailwindCSS • JavaScript           ║
+║  🗄️  Database  →  PostgreSQL • MySQL • MongoDB               ║
+║  ☁️  DevOps    →  Docker • Git • GitHub Actions              ║
+║  📍  Location  →  Pune, Maharashtra, India                   ║
+║  💡  Status    →  Open to Internships & Collabs 🟢           ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -106,36 +127,81 @@
 
 ---
 
+<!-- SKILL LEVEL BARS -->
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<br/>
-
-<!-- GITHUB STATS CARD -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathemsh-Coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&icon_color=6e40c9&text_color=c9d1d9&ring_color=c471ed)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathemsh-Coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&text_color=c9d1d9&langs_count=8)
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prathemsh-Coder&theme=midnight-purple&hide_border=true&background=0D1117&ring=C471ED&fire=C471ED&currStreakLabel=C471ED&sideLabels=C9D1D9&dates=6E40C9)
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathemsh-Coder&theme=react-dark&hide_border=true&bg_color=0d1117&color=c471ed&line=6e40c9&point=c471ed&area=true&area_color=6e40c9)
+## ⚡ Skill Proficiency
 
 </div>
+
+```text
+Java / Spring Boot   ████████████████████░░  90%
+React / JavaScript   ███████████████████░░░  85%
+SQL / Databases      ██████████████████░░░░  80%
+Docker / DevOps      ███████████████░░░░░░░  70%
+Cloud / AWS          ████████████░░░░░░░░░░  55%
+```
 
 ---
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
-<!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathemsh-Coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)-->
+</div>
+
+<div align="center">
+
+<!-- GITHUB STATS + TOP LANGS — reliable via vercel -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathemsh-Coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&icon_color=6e40c9&text_color=c9d1d9&ring_color=c471ed&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathemsh-Coder&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c471ed&text_color=c9d1d9&langs_count=8"/>
+
+<br/><br/>
+
+<!-- STREAK STATS — fixed: demolab is reliable, herokuapp is dead -->
+<img src="https://streak-stats.demolab.com?user=Prathemsh-Coder&theme=midnight-purple&hide_border=true&background=0D1117&ring=C471ED&fire=C471ED&currStreakLabel=C471ED&sideLabels=C9D1D9&dates=6E40C9" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<!-- PROFILE SUMMARY CARDS — replaces broken activity graph -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathemsh-Coder&theme=midnight_purple" width="100%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prathemsh-Coder&theme=midnight_purple" width="32%" alt="Repos per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prathemsh-Coder&theme=midnight_purple" width="32%" alt="Most Commit Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prathemsh-Coder&theme=midnight_purple&utcOffset=5.5" width="32%" alt="Productive Time"/>
+
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE — add this GitHub Action to your repo -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
+> ⚠️ **Setup required:** Add the [snake workflow](https://github.com/Platane/snk) as a GitHub Action to auto-generate this gif.
+
+<img src="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+<!-- RANDOM DEV QUOTE -->
+<div align="center">
+
+## 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 </div>
 
