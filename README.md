@@ -135,7 +135,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathemsh-Coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
+<!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathemsh-Coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)-->
 
 </div>
 
