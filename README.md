@@ -181,18 +181,6 @@ Cloud / AWS          ████████████░░░░░░░�
 
 </div>
 
----
-
-<!-- CONTRIBUTION SNAKE — add this GitHub Action to your repo -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-> ⚠️ **Setup required:** Add the [snake workflow](https://github.com/Platane/snk) as a GitHub Action to auto-generate this gif.
-
-<img src="https://raw.githubusercontent.com/Prathemsh-Coder/Prathemsh-Coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
 
 ---
 
